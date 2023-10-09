@@ -1,0 +1,57 @@
+{
+    "list": {
+        "user": {
+            "name": "snape",
+            "email": "snape@gmail.com",
+            "password": "s123456"
+        },
+        "tasks": [
+            {
+                "name": "Estud4r",
+                "tags": [
+                    "Quimica ",
+                    "espanhol",
+                    "ingles"
+                ]
+            },
+            {
+                "name": "Estud4r aulas atrasadas",
+                "tags": [
+                    "devOps",
+                    "Gherkin"
+                ]
+            },
+            {
+                "name": "Estud4r livros",
+                "tags": [
+                    "romance"
+                ]
+            }
+        ]
+    },
+    "unique": {
+        "user": {
+            "name": "Tony Stark",
+            "email": "tony@gmail.com",
+            "password": "t123456"
+        },
+        "task": {
+            "name": "Construir a Mark87",
+            "tags": [
+                "ark ",
+                "nanotech",
+                "friday"
+            ]
+        }
+    },
+    "not_found": {
+        "user": {
+            "name": "Bruce Banner",
+            "email": "hulk@gmail.com",
+            "password": "b123456"
+        },
+        "task": {
+            "name": "Construir uma maquina de radiação gama"
+        }
+    }
+}

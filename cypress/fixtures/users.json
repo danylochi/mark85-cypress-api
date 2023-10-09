@@ -1,0 +1,36 @@
+{
+    "login": {
+        "name": "Hermione Granger",
+        "email": "hermione@hotmail.com",
+        "password": "g123456"
+    },
+
+    "inv_pass": {
+        "email": "harry@gmail.com",
+        "password":"g123455"
+    },
+    
+    "email_404": {
+        "email": "404@gmail.com",
+        "password":"g123455"
+    },
+
+    "create":{
+        "name": "teste 001",
+        "email": "teste@hotmail.com",
+        "password": "123456"
+    },
+
+    "dup_email":{
+        "name": "Barbie",
+        "email": "barbie@hotmail.com",
+        "password": "B123456"
+    },
+
+    "required":{
+        "name": "Harry Potter",
+        "email": "harry@hotmail.com",
+        "password": "h123456"
+    }
+
+}

@@ -1,0 +1,28 @@
+{
+    "create": {
+        "user": {
+            "name": "dayane domingues",
+            "email": "dayanedomingues@hotmail.com",
+            "password": "d123456"
+        },
+        "task": {
+            "name": "pagar fatura",
+            "tags": [
+                "nubank",
+                "bb",
+                "mastercard"
+            ]
+        }
+    },
+    "dup": {
+        "user": {
+            "name": "dumbledore",
+            "email": "hogwarts@gmail.com",
+            "password": "d123456"
+        },
+        "task": {
+            "name": "Fazer a compra"
+          
+        }
+    }
+}
